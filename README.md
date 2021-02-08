@@ -1,10 +1,10 @@
-# Página web creada por: Jairo Celada Cebrián
+# Página Web creada por: Jairo Celada Cebrián
 
 Página Web personal donde describo mis conocimientos, habilidades, formación e información sobre mí, también proporciono formas de contacto y adjunto mi Currículum.
 💻<strong>Link a la web</strong>: https://Jairoxd98.github.io/ 
 <br>
 <p align="center">
-<img src="assets/img/portafolio/05.png" width="100%">
+<img src="img/portafolio/05.png" width="100%">
 </p>
 <br>
 Las diferentes herramientas utilizadas para la creación de la página son las siguientes:
