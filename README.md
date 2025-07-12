@@ -31,4 +31,3 @@ He mejorado el posicionamiento SEO de mi página web mediante las siguientes her
 ✅ Google Analytics: utilizada para obtener información analítica relevante acerca de la web.
 
 ✅ Google Search Console: utilizada para comprobar el estado de la indexación de mi página en internet por el buscador y optimizar su visibilidad.
-
